@@ -1,0 +1,6 @@
+{
+  "name": "Gorgification",
+  "description": "Upload any image and automatically replace every face with the glorious Gorg face. Includes auto face detection and stretch mode!",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
